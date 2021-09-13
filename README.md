@@ -1,5 +1,5 @@
 <h2> Hey there! I'm Vinay.</h2>
-
+<br>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Curious and diligent to learn about new technologies that continue to amaze the world.
@@ -8,7 +8,7 @@
 - 🤵‍ &nbsp;  Completed Internship as Web Developer In Two StartUps Companies.
 - 🌱 &nbsp; Learning more about Cloud Computing, Systems Design, Data Science and Artificial Intelligence.
 - ✍️ &nbsp; Certification In Data Science, Ethical Hacking, Machine Learning and Advance Data Structure.
-
+<br>
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
@@ -36,14 +36,14 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 
 
-<br/>
+<br/> <br>
 
 <a href="https://github.com/Vinay-gupta9">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinay-gupta9&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinay-gupta9&theme=buefy&layout=compact" />
 </a>
 
-<br/>
+<br/> <br>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
@@ -53,8 +53,8 @@
 <a href="https://www.hackerrank.com/vinaykumargupta4"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-Vinay%20Gupta-blue?style=flat-square&logo=hackerrank"></a>
 <a href="mailto:bit18it25@bit.ac.in"><img alt="Email" src="https://img.shields.io/badge/Email-Vinay%20Gupta-blue?style=flat-square&logo=gmail"></a>
 </p>
-
-
+<br>
+⭐️ Open To Work In SDE Role.
 
 
 <!---
