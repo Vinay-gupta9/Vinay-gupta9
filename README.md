@@ -1,4 +1,4 @@
-<h2> Hey there! I'm <a href="https://vinaygupta20.me/" target="_blank"> Vinay </a>.</h2>
+<h2> Hey there! I'm <a href="https://vinaygupta20.me/" target="_blank" rel="noopener noreferrer"> Vinay </a>.</h2>
 <br>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
