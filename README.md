@@ -48,7 +48,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="vinaygupta20.me"><img alt="Website" src="https://img.shields.io/badge/Website-Vinay%20Gupta-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://vinaygupta20.me/"><img alt="Website" src="https://img.shields.io/badge/Website-Vinay%20Gupta-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/vinay-gupta-2631b2180/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vinay%20Gupta-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.hackerrank.com/vinaykumargupta4"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-Vinay%20Gupta-blue?style=flat-square&logo=hackerrank"></a>
 <a href="mailto:bit18it25@bit.ac.in"><img alt="Email" src="https://img.shields.io/badge/Email-Vinay%20Gupta-blue?style=flat-square&logo=gmail"></a>
