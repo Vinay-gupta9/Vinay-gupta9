@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Vinay.</h2>
+<h2> Hey there! I'm <a href="https://vinaygupta20.me/"> Vinay </a>.</h2>
 <br>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
