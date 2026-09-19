@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;AI Engineer with 4+ years of experience in AI/ML and Generative AI, delivering production-grade RAG, multi-agent LLM, and
 vector database solutions. Skilled in Python, Azure Functions, Microsoft Foundry, prompt engineering, REST APIs, and
 cloud-native applications. Experienced in scalable AI development, enterprise automation, and technical leadership. Open
-to relocation to the Netherlands. </h3>
+to relocation. </h3>
 
 - 🤔 &nbsp; Curious and diligent to learn about new technologies that continue to amaze the world.
 - 🎓 &nbsp; Completed B.Tech In Information Technology at Dr. APJ Abdul Kalam Technical University.
