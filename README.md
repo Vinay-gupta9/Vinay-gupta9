@@ -7,6 +7,7 @@ to relocation. </h3>
 
 - 🤔 &nbsp; Curious and diligent to learn about new technologies that continue to amaze the world.
 - 🎓 &nbsp; Completed B.Tech In Information Technology at Dr. APJ Abdul Kalam Technical University.
+- 💼 &nbsp; Working as a System Engineer at Tata Consultancy India.
 - 💼 &nbsp; Worked as a Research Scholar at National Productivity Council(NPC) India.
 - 🤵‍ &nbsp;  Completed Internship as Web Developer In Two StartUps Companies.
 - 🌱 &nbsp; Learning more about Cloud Computing, Systems Design, Data Science and Artificial Intelligence.
