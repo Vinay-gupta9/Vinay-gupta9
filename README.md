@@ -1,9 +1,12 @@
 <h2> Hey there! I'm <a href="https://vinaygupta20.me/" target="_blank"> Vinay </a>.</h2>
 <br>
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> 👨🏻‍💻 &nbsp;AI Engineer with 4+ years of experience in AI/ML and Generative AI, delivering production-grade RAG, multi-agent LLM, and
+vector database solutions. Skilled in Python, Azure Functions, Microsoft Foundry, prompt engineering, REST APIs, and
+cloud-native applications. Experienced in scalable AI development, enterprise automation, and technical leadership. Open
+to relocation to the Netherlands. </h3>
 
 - 🤔 &nbsp; Curious and diligent to learn about new technologies that continue to amaze the world.
-- 🎓 &nbsp; Pursuing B.Tech In Information Technology at Dr. APJ Abdul Kalam Technical University.
+- 🎓 &nbsp; Completed B.Tech In Information Technology at Dr. APJ Abdul Kalam Technical University.
 - 💼 &nbsp; Worked as a Research Scholar at National Productivity Council(NPC) India.
 - 🤵‍ &nbsp;  Completed Internship as Web Developer In Two StartUps Companies.
 - 🌱 &nbsp; Learning more about Cloud Computing, Systems Design, Data Science and Artificial Intelligence.
